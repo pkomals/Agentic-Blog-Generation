@@ -1,0 +1,7 @@
+{
+  "dependencies":["."],
+  "graphs":{
+    "blog_generator_agent":"./src/Graphs/graphbuilder.py:graph1"
+  },
+  "env":"./.env"
+}
